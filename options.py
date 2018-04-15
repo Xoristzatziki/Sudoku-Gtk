@@ -56,8 +56,6 @@ try:
     gi_require_version('Gtk', '3.0')
     from gi.repository import Gtk
     from gi.repository import Gdk, GdkPixbuf, Pango
-    gi_require_version('PangoCairo', '1.0')
-    from gi.repository import PangoCairo
     import cairo
 
     # Configuration and message boxes
@@ -245,7 +243,6 @@ class windowOptions(Gtk.Window):
 
     def on_scale1_change_value(self, widget, scroll, new_value, *args):
         """ Handler for scale1.change-value. """
-
         val = new_value# (new_value /100 ) * 1.45
         if val > 2.5:
             val = 2.5
@@ -443,10 +440,7 @@ class windowOptions(Gtk.Window):
                 cr.rectangle(colcounter * size , rowcounter * size, size, size)
                 cr.set_source_rgb(0,0,0)
                 cr.stroke()
-
-        #samplechar = str(self.example_int)
         samplechar = ['1','8','7','9']
-        samplechar2 = '8'
         font_size = size * 1./self.fontaspect
         cr.select_font_face("Monospace",
             cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_NORMAL)
