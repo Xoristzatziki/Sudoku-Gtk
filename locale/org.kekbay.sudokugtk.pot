@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sudoku-Gtk v.0.0.18\n"
+"POT-Creation-Date: 2018-04-15 22:10+0300\n"
+"PO-Revision-Date: 2018-03-30 13:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ui/options.glade:54
+msgid "Font aspect:"
+msgstr ""
+
+#: ui/options.glade:235
+msgid "Show only board"
+msgstr ""
+
+#: ui/options.glade:251
+msgid "Show timer"
+msgstr ""
+
+#: ui/options.glade:266
+msgid "Show remaining pieces"
+msgstr ""
+
+#: ui/options.glade:289 sudoku-gtk.py:378
+msgid "Standard"
+msgstr ""
+
+#: ui/sudokugtk.glade:35
+msgid "New"
+msgstr ""
+
+#: ui/sudokugtk.glade:50
+msgid "Continue"
+msgstr ""
+
+#: ui/sudokugtk.glade:154
+msgid "Options"
+msgstr ""
+
+#: auxiliary.py:102
+msgid "_Yes"
+msgstr ""
+
+#: auxiliary.py:104
+msgid "_OK"
+msgstr ""
+
+#: auxiliary.py:106
+msgid "_No"
+msgstr ""
+
+#: auxiliary.py:108
+msgid "_Cancel"
+msgstr ""
+
+#: auxiliary.py:110
+msgid "OK"
+msgstr ""
+
+#: auxiliary.py:113
+msgid "ERROR"
+msgstr ""
+
+#: auxiliary.py:116
+msgid "WARNING"
+msgstr ""
+
+#: auxiliary.py:119
+msgid "QUESTION"
+msgstr ""
+
+#: auxiliary.py:122
+msgid "INFO"
+msgstr ""
+
+#: options.py:139 puzzlewindow.py:130 sudoku-gtk.py:127
+msgid "Error loading from Glade file"
+msgstr ""
+
+#: puzzlewindow.py:372
+msgid "Solved!"
+msgstr ""
+
+#: puzzlewindow.py:372
+msgid "time passed"
+msgstr ""
+
+#: puzzlewindow.py:431
+msgid "Remaining:"
+msgstr ""
+
+#: puzzlewindow.py:504 sudoku-gtk.py:354
+msgid "Sudoku-Gtk"
+msgstr ""
+
+#: sudoku-gtk.py:178
+msgid "Experimental"
+msgstr ""
+
+#: sudoku-gtk.py:192
+msgid "Not a valid history in conf"
+msgstr ""
+
+#: sudoku-gtk.py:371
+msgid "standard"
+msgstr ""
+
+#: sudoku-gtk.py:372
+msgid "arabic"
+msgstr ""
+
+#: sudoku-gtk.py:373
+msgid "greek"
+msgstr ""
+
+#: sudoku-gtk.py:374
+msgid "chinese"
+msgstr ""
+
+#: sudoku-gtk.py:375
+msgid "persian"
+msgstr ""
+
+#: sudoku-gtk.py:376
+msgid "tibetan"
+msgstr ""
+
+#: sudoku-gtk.py:377
+msgid "custom"
+msgstr ""
+
+#: sudoku-gtk.py:379
+msgid "Arabic"
+msgstr ""
+
+#: sudoku-gtk.py:380
+msgid "Greek"
+msgstr ""
+
+#: sudoku-gtk.py:381
+msgid "Chinese"
+msgstr ""
+
+#: sudoku-gtk.py:382
+msgid "Persian"
+msgstr ""
+
+#: sudoku-gtk.py:383
+msgid "Tibetan"
+msgstr ""
+
+#: sudoku-gtk.py:384
+msgid "Custom"
+msgstr ""

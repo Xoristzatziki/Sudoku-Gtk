@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sudoku-Gtk v.0.0.18\n"
+"POT-Creation-Date: 2018-04-15 22:10+0300\n"
+"PO-Revision-Date: 2018-04-15 22:16+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: Ηλιάδης Ηλίας <iliadis@kekbay.gr>\n"
+"Language: el\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ui/options.glade:54
+msgid "Font aspect:"
+msgstr "Κλίμακα γραμματοσειράς:"
+
+#: ui/options.glade:235
+msgid "Show only board"
+msgstr "Μόνο το παζλ"
+
+#: ui/options.glade:251
+msgid "Show timer"
+msgstr "Χρονόμετρο"
+
+#: ui/options.glade:266
+msgid "Show remaining pieces"
+msgstr "Απομένοντα ψηφία"
+
+#: ui/options.glade:289 sudoku-gtk.py:378
+msgid "Standard"
+msgstr "Κλασικό"
+
+#: ui/sudokugtk.glade:35
+msgid "New"
+msgstr "Νέο"
+
+#: ui/sudokugtk.glade:50
+msgid "Continue"
+msgstr "Συνέχιση"
+
+#: ui/sudokugtk.glade:154
+msgid "Options"
+msgstr "Επιλογές"
+
+#: auxiliary.py:102
+msgid "_Yes"
+msgstr "_Ναι"
+
+#: auxiliary.py:104
+msgid "_OK"
+msgstr "_Εντάξει"
+
+#: auxiliary.py:106
+msgid "_No"
+msgstr "Ό_χι"
+
+#: auxiliary.py:108
+msgid "_Cancel"
+msgstr "Ά_κυρο"
+
+#: auxiliary.py:110
+msgid "OK"
+msgstr "Εντάξει"
+
+#: auxiliary.py:113
+msgid "ERROR"
+msgstr "ΣΦΑΛΜΑ"
+
+#: auxiliary.py:116
+msgid "WARNING"
+msgstr "ΠΡΟΕΙΔΟΠΟΙΗΣΗ"
+
+#: auxiliary.py:119
+msgid "QUESTION"
+msgstr "ΕΡΩΤΗΣΗ"
+
+#: auxiliary.py:122
+msgid "INFO"
+msgstr "ΠΛΗΡΟΦΟΡΙΑ"
+
+#: options.py:139 puzzlewindow.py:130 sudoku-gtk.py:127
+msgid "Error loading from Glade file"
+msgstr "Σφάλμα φόρτωσης του αρχείου Glade"
+
+#: puzzlewindow.py:372
+msgid "Solved!"
+msgstr "Λύθηκε!"
+
+#: puzzlewindow.py:372
+msgid "time passed"
+msgstr "διάρκεια"
+
+#: puzzlewindow.py:431
+msgid "Remaining:"
+msgstr "Απομένοντα:"
+
+#: puzzlewindow.py:504 sudoku-gtk.py:354
+msgid "Sudoku-Gtk"
+msgstr ""
+
+#: sudoku-gtk.py:178
+msgid "Experimental"
+msgstr "Πειραματικό"
+
+#: sudoku-gtk.py:192
+msgid "Not a valid history in conf"
+msgstr "Μη έγκυρο τιμή ιστορικού στο αρχείο διαμόρφωσης"
+
+#: sudoku-gtk.py:371
+msgid "standard"
+msgstr "κλασικό"
+
+#: sudoku-gtk.py:372
+msgid "arabic"
+msgstr "αραβικά"
+
+#: sudoku-gtk.py:373
+msgid "greek"
+msgstr "ελληνικά"
+
+#: sudoku-gtk.py:374
+msgid "chinese"
+msgstr "κινέζικα"
+
+#: sudoku-gtk.py:375
+msgid "persian"
+msgstr "περσικά"
+
+#: sudoku-gtk.py:376
+msgid "tibetan"
+msgstr "θιβετιανά"
+
+#: sudoku-gtk.py:377
+msgid "custom"
+msgstr "προσαρμοσμένο"
+
+#: sudoku-gtk.py:379
+msgid "Arabic"
+msgstr "Αραβικά"
+
+#: sudoku-gtk.py:380
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: sudoku-gtk.py:381
+msgid "Chinese"
+msgstr "Κινέζικα"
+
+#: sudoku-gtk.py:382
+msgid "Persian"
+msgstr "Περσικά"
+
+#: sudoku-gtk.py:383
+msgid "Tibetan"
+msgstr "Θιβετιανά"
+
+#: sudoku-gtk.py:384
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
