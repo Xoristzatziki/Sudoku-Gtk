@@ -20,6 +20,11 @@ In general:
 
 This is a beta version. Still requires the generator to call the qqwing.
 
+Download all files to some directory and either change the mode of sudoku-gtk.py to be executable
+or run it using:
+
+`python3 sudoku-gtk.py`
+
 TODO:
 -----
 
