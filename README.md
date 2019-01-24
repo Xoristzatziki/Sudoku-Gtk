@@ -1,3 +1,5 @@
+This project is now only for educational purposes. Please visit the new [coding idea](https://github.com/Xoristzatziki/sudoku-as-puzzle).
+
 # Sudoku-Gtk
 ==========
 
