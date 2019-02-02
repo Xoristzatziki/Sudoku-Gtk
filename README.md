@@ -44,6 +44,13 @@ and [Python 3](https://www.python.org/downloads/).
 
 File an issue if there is something you would like to see.
 
+Screenshots
+-----------
+
+![tibetan](Docs/images/tibetan.png?raw=true "Tibetan")
+
+![chinese](Docs/images/chinese.png?raw=true "Chinese")
+
 Contributions:
 --------------
 
