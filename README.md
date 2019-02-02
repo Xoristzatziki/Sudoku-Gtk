@@ -47,9 +47,9 @@ File an issue if there is something you would like to see.
 Screenshots
 -----------
 
-![tibetan](Docs/images/tibetan.png?raw=true "Tibetan")
+![tibetan](https://github.com/Xoristzatziki/Sudoku-Gtk/blob/master/Docs/Images/tibetan.png "Tibetan")
 
-![chinese](Docs/images/chinese.png?raw=true "Chinese")
+![chinese](https://github.com/Xoristzatziki/Sudoku-Gtk/blob/master/Docs/Images/chinese1.png "Chinese")
 
 Contributions:
 --------------
