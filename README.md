@@ -47,9 +47,9 @@ File an issue if there is something you would like to see.
 Screenshots
 -----------
 
-![tibetan](https://github.com/Xoristzatziki/Sudoku-Gtk/blob/master/Docs/Images/tibetan.png "Tibetan" | width=100)
+![tibetan](https://github.com/Xoristzatziki/Sudoku-Gtk/blob/master/Docs/Images/tibetan.png "Tibetan" width=100)
 
-![chinese](https://github.com/Xoristzatziki/Sudoku-Gtk/blob/master/Docs/Images/chinese1.png "Chinese" | width=100)
+![chinese](https://github.com/Xoristzatziki/Sudoku-Gtk/blob/master/Docs/Images/chinese1.png "Chinese" width=100)
 
 Contributions:
 --------------
